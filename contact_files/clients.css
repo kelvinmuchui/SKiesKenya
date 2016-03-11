@@ -1,7 +1,7 @@
 /* TOP */
 #clients-nav { display:block; margin-top:62px; text-transform:uppercase; width:600px; float:right;}
 #clients-nav li { float:right; display:block; margin:0 12px 0 0;}
-#clients-nav li a { font-size:14px; font-weight: bold; line-height:16px; background:url(../../images/portico/tr2.png) -9999px -9999px no-repeat; padding-left: 14px; color:#702352;}
+#clients-nav li a { font-size:14px; font-weight: bold; line-height:16px; color:#702352;}
 
 #clients-nav li a:hover,
 #clients-nav li.selected a { background-position: 0 1px; }
@@ -18,25 +18,25 @@
 #clients li { float:left; display:block; margin: 0 20px 0 0; }
 
 #clients li.title { font-size:14px; line-height:14px; font-weight:bold;}
-#clients li a { font-size:14px; line-height:16px; background:url(../../images/portico/tr1.png) -9999px -9999px no-repeat; padding-left: 14px;}
+#clients li a { font-size:14px; line-height:16px;}
 #clients li a:hover,
 #clients li.selected a { background-position: 0 1px; }
 
 
 
 #people { display:block; margin-top: 8px; text-transform:uppercase; }
-#people a { font-size:14px; line-height:13px; font-weight:bold; color:#fff; background:url(../../images/portico/working-with-us.png) -9999px -9999px no-repeat; width:217px; height:13px; display:block; margin:0;}
+#people a { font-size:14px; line-height:13px; font-weight:bold; color:#fff; margin:0;}
 
 /* MID */
 #mid { font-size:12px; line-height:25px;}
 
-#pages-show-clients #mid { background:url(../../images/portico/clients-redcarpet.jpg) 0 0 no-repeat;}
+#pages-show-clients #mid { background: 0 0 no-repeat;}
 /*#pages-show-clients #mid p { width:442px; display:block; padding:237px 0 0 442px;}*/
 
 #pages-show-clients #mid div.video_link { width:442px; display:block; padding:20px 0 0 442px;}
-#pages-show-clients #mid div.video_link a { background: url(../../images/portico/see-our-passion.png) top left no-repeat; width:175px; height:20px; text-indent:-9999px;display: block;}
+#pages-show-clients #mid div.video_link a { background: url top left no-repeat; width:175px; height:20px; text-indent:-9999px;display: block;}
 
-#pages-show-the-difference #mid { background:url(../../images/portico/clients-measureup.jpg) 0 0 no-repeat;}
+#pages-show-the-difference #mid { background: 0 0 no-repeat;}
 /*#pages-show-the-difference #mid p { width:320px; padding:136px 0 0 610px;}*/
 
 #pages-show-innovation #mid { background:url(../../images/portico/clients-raisingthebar.jpg) 0 0 no-repeat;}
