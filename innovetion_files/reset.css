@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+/* RESET
+------------------------------------------------------------------------------------------------------------*/
+
+html , body { margin:0;}
+div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input	
+{ margin:0; padding:0; border:0; outline:0; color:#FFF; font-size:12px;}
+
+h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,th 						
+{font-size:1em;font-weight:normal;font-style:normal; font-family:Verdana, Geneva, sans-serif;}
+
+ul,ol						{ list-style:none; font-family:Verdana, Geneva, sans-serif;}
+fieldset,img				{ border:none; }
+a:focus {outline:none;}
+a { text-decoration:none; font-family:Verdana, Geneva, sans-serif; color:#FFF; }
+p { font-family: Verdana, Geneva, sans-serif}
+
+form { font:Verdana, Geneva, sans-serif;}
+
+strong {font-weight:bold;}
+em{font-style:italic;}

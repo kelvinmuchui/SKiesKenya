@@ -1,0 +1,217 @@
+/* TOP */
+#clients-nav { display:block; margin-top:62px; text-transform:uppercase; width:600px; float:right;}
+#clients-nav li { float:right; display:block; margin:0 12px 0 0;}
+#clients-nav li a { font-size:14px; font-weight: bold; line-height:16px; background:url(../../images/portico/tr2.png) -9999px -9999px no-repeat; padding-left: 14px; color:#702352;}
+
+#clients-nav li a:hover,
+#clients-nav li.selected a { background-position: 0 1px; }
+
+.page-content {
+  background: #a3915f;
+}
+#posts-index #mid {
+  padding-top: 0;
+}
+
+/* SUB TOP */
+#clients { display:block; text-transform:uppercase; padding:0; overflow: hidden;}
+#clients li { float:left; display:block; margin: 0 20px 0 0; }
+
+#clients li.title { font-size:14px; line-height:14px; font-weight:bold;}
+#clients li a { font-size:14px; line-height:16px; background:url(../../images/portico/tr1.png) -9999px -9999px no-repeat; padding-left: 14px;}
+#clients li a:hover,
+#clients li.selected a { background-position: 0 1px; }
+
+
+
+#people { display:block; margin-top: 8px; text-transform:uppercase; }
+#people a { font-size:14px; line-height:13px; font-weight:bold; color:#fff; background:url(../../images/portico/working-with-us.png) -9999px -9999px no-repeat; width:217px; height:13px; display:block; margin:0;}
+
+/* MID */
+#mid { font-size:12px; line-height:25px;}
+
+#pages-show-clients #mid { background:url(../../images/portico/clients-redcarpet.jpg) 0 0 no-repeat;}
+/*#pages-show-clients #mid p { width:442px; display:block; padding:237px 0 0 442px;}*/
+
+#pages-show-clients #mid div.video_link { width:442px; display:block; padding:20px 0 0 442px;}
+#pages-show-clients #mid div.video_link a { background: url(../../images/portico/see-our-passion.png) top left no-repeat; width:175px; height:20px; text-indent:-9999px;display: block;}
+
+#pages-show-the-difference #mid { background:url(../../images/portico/clients-measureup.jpg) 0 0 no-repeat;}
+/*#pages-show-the-difference #mid p { width:320px; padding:136px 0 0 610px;}*/
+
+#pages-show-innovation #mid { background:url(../../images/portico/clients-raisingthebar.jpg) 0 0 no-repeat;}
+/*#pages-show-innovation #mid p {  width:340px; padding:290px 0 0 566px;}*/
+
+#pages-show-support #mid { background:url(../../images/portico/clients-support.jpg) 0 0 no-repeat;}
+/*#pages-show-support #mid p { width:349px; padding:122px 0 0 536px;}*/
+
+#mid.pages-show-senior-team { background:url(../../images/portico/clients-seniorteam2.jpg) 0 0 no-repeat;}
+.pages-show-senior-team p { width:250px; padding:74px 0 0 662px;}
+
+
+#pages-show-greg-mace #mid { background:url(../../images/portico/clients-gregmace.jpg) 0 0 no-repeat;}
+#pages-show-greg-mace #greg { width:260px; padding:92px 0 0 646px;}
+#pages-show-greg-mace #greg p  {font-size:12x; padding-top:10px; line-height:23px;}
+#pages-show-greg-mace #greg p span { font-size:14px;}
+#pages-show-greg-mace #greg p  a:hover { color:#000;}
+#pages-show-greg-mace #greg p  a.linkedin { padding:5px 0 0 0; display:block;}
+
+#pages-show-deborah-stoller #mid { background:url(../../images/portico/clients-deborahstoller.jpg) 0 0 no-repeat;}
+#pages-show-deborah-stoller #deborah { width:370px; padding:50px 0 0 464px;}
+#pages-show-deborah-stoller #deborah p  {font-size:12x; padding-top:10px; line-height:23px;}
+#pages-show-deborah-stoller #deborah p span { font-size:14px;}
+#pages-show-deborah-stoller #deborah p  a:hover { color:#000;}
+#pages-show-deborah-stoller #deborah p  a.linkedin { padding:5px 0 0 0; display:block;}
+
+#pages-show-paul-nicholls #mid { background:url(../../images/portico/clients-paulnicholls.jpg) 0 0 no-repeat;}
+#pages-show-paul-nicholls #paul { width:300px; padding:68px 0 0 38px;}
+#pages-show-paul-nicholls #paul p  {font-size:12x; padding-top:10px; line-height:23px;}
+#pages-show-paul-nicholls #paul p span { font-size:14px;}
+#pages-show-paul-nicholls #paul p  a:hover { color:#000;}
+#pages-show-paul-nicholls #paul p  a.linkedin { padding:5px 0 0 0; display:block;}
+
+#pages-show-sue-carroll #mid { background:url(../../images/portico/clients-suecarroll.jpg) 0 0 no-repeat;}
+#pages-show-sue-carroll #sue { width:340px; padding:150px 0 0 38px;}
+#pages-show-sue-carroll #sue p  {font-size:12x; padding-top:10px; line-height:23px;}
+#pages-show-sue-carroll #sue p span { font-size:14px;}
+#pages-show-sue-carroll #sue p  a:hover { color:#000;}
+#pages-show-sue-carroll #sue p  a.linkedin { padding:5px 0 0 0; display:block;}
+
+/* SERVICES */
+#pages-show-our-services #mid {
+  padding-top: 0;
+}
+#pages-show-our-services .columns {
+  background: url(../../images/portico/services-bg.jpg) left top no-repeat;
+  padding: 20px 0 0 265px;
+  min-height: 442px;
+}
+#pages-show-our-services .columns:after {
+  clear: both;
+  content: "";
+  display: block;
+}
+#pages-show-our-services .col {
+  float: left;
+  width: 218px;
+  margin-right: 20px;
+}
+#pages-show-our-services .columns .col:last-child {
+  margin-right: 0;
+}
+
+/* MID Services Left */
+.pages-show-our-services { height:556px !important;}
+#mid.pages-show-our-services #title { width:373px; height:22px; background:url(../../images/portico/clients-services-text.png) 0 27px no-repeat; display:block; padding:27px 0 25px 0;}
+#mid.pages-show-our-services #mid-left { width:500px; display:block; padding:16px 0 0 0; float:left;}
+#mid.pages-show-our-services #mid-left h1 { font-size:14px; font-weight:bold; line-height:25px; padding-top:10px}
+#mid.pages-show-our-services #mid-left p { font-size:12px; line-height:20px; color:#000;}
+
+/* MID Services Right*/
+#mid.pages-show-our-services #mid-right { width:330px; display:block; padding:16px 0 0 0; float:right;}
+#mid.pages-show-our-services #mid-right h1 { font-size:14px; font-weight:bold; line-height:18px; padding-top:10px}
+#mid.pages-show-our-services #mid-right p { font-size:14px; line-height:20px; color:#FFF; padding-bottom:10px;}
+
+/* SUB MID */
+#sub-mid p { font-size:10px; line-height:14px;}
+
+#sub-mid #seniorteam-select { height:13px; display:block; padding:0; margin-left:-11px;}
+#sub-mid #seniorteam-select li { float:left; margin:0 12px 0 0; font-size:10px; line-height:13px; display:block; }
+#sub-mid #seniorteam-select li a { font-size:10px; line-height:13px; background:url(../../images/portico/arrow.png) -9999px -9999px no-repeat; padding-left:11px; }
+#sub-mid #seniorteam-select li a:hover { background:url(../../images/portico/arrow.png) 0 -13px no-repeat;  }
+#sub-mid #seniorteam-select li.selected { background:url(../../images/portico/arrow.png) 0 0 no-repeat; padding-left:11px;}
+
+
+.jScrollPaneTrack{
+  background:#978152 !important;
+}
+
+
+
+
+
+
+.services-container {
+  width: 610px !important;
+  padding-left: 350px !important;
+  overflow: hidden;
+}
+
+.services-container img {
+  float: left;
+  margin-left: -350px;
+  margin-bottom: 40px;
+}
+
+.services-container h1 {
+  font-size: 24px !important;
+  font-weight: normal !important;
+  line-height: 1 !important;
+
+  margin: 30px 0;
+}
+
+.services-container > div {
+  float: left;
+  width: 185px;
+  margin-left: 25px;
+}
+
+.services-container > div p {
+  font-size: 14px !important;
+  color: #fff !important;
+}
+
+.services-container > div:first-of-type {
+  margin-left: 0;
+}
+
+.services-container > div h2 {
+  font-size: 20px;
+  line-height: 1;
+
+  margin: 60px 0 20px 0;
+}
+
+.services-container > div h2:first-child {
+  margin-top: 0;
+}
+
+
+
+.services-container ul {
+  margin: 1em 0 !important;
+  overflow: hidden;
+  list-style: none !important;
+  list-style-image: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+.services-container ul > li {
+  position: relative;
+  margin: 0 0 6px 24px;
+
+  font-size: 14px;
+  line-height: 16px;
+  color: #fff;
+
+  z-index: 1;
+}
+
+.services-container ul > li:before {
+  content: "";
+  position: absolute;
+  left: -24px;
+  top: 0;
+  width: 12px;
+  height: 14px;
+  background:url(../../images/portico/tr1.png) 0 0 no-repeat;
+  
+  font-family: Verdana, sans-serif;
+  font-size: 1;
+  line-height: 1;
+  
+  z-index: 1;
+  overflow: hidden;
+}

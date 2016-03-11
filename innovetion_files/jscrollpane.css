@@ -1,0 +1,61 @@
+.jScrollPaneContainer {
+  position: relative;
+  overflow: hidden;
+  z-index: 1; }
+  .jScrollPaneContainer img {
+    margin-right: 10px; }
+
+.jScrollPaneTrack {
+  position: absolute;
+  cursor: pointer;
+  right: 0;
+  top: 0;
+  height: 100%; }
+
+.jScrollPaneDrag {
+  position: absolute;
+  background: #cccccc;
+  cursor: pointer;
+  overflow: hidden;
+  display: none; }
+
+.jScrollPaneDragTop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden; }
+
+.jScrollPaneDragBottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  overflow: hidden; }
+
+a.jScrollArrowUp {
+  display: block;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  text-indent: -2000px;
+  overflow: hidden;
+  height: 24px;
+  background: url(../images/consumer-scroll-up.png) no-repeat; }
+a.jScrollArrowDown {
+  display: block;
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  right: 0;
+  text-indent: -2000px;
+  overflow: hidden;
+  height: 24px;
+  background: red;
+  background: url(../images/consumer-scroll-down.png) no-repeat; }
+
+.corporate a.jScrollArrowUp {
+  height: 20px;
+  background: url(../images/corporate-scroll-up.png) no-repeat; }
+.corporate a.jScrollArrowDown {
+  height: 20px;
+  background: url(../images/corporate-scroll-down.png) no-repeat; }

@@ -1,0 +1,125 @@
+body { background-color:#65204f;}
+#page { width:960px; margin:0 auto 0 auto;}
+
+#bottom p { color:#fff; font-size:10px;}
+#bottom p a { color:#fff;}
+#bottom p span { color:#6a5863;}
+.page-content {
+  background: #65204f;
+}
+#pages-show-opportunities #mid,
+#posts-index #mid {
+  padding-top: 0;
+}
+
+
+/* TOP */
+#people-nav { display:block; margin-top:62px; text-transform:uppercase; width:600px; float:right;}
+#people-nav li { float:right; display:block; margin:0 12px 0 0;}
+#people-nav li a { font-size:14px; font-weight: bold; line-height:16px; background:url(../../images/portico/tr1.png) -9999px -9999px no-repeat; padding-left: 14px; color:#fff;}
+
+#people-nav li a:hover,
+#people-nav li.selected a { background-position: 0 1px; }
+
+
+/* SUB TOP */
+#people { display:block; text-transform:uppercase; padding:0; overflow: hidden;}
+#people li { float:left; display:block; margin: 0 20px 0 0; }
+
+#people li.title { font-size:14px; line-height:14px; font-weight:bold;}
+#people li a { font-size:14px; line-height:16px; background:url(../../images/portico/tr1.png) -9999px -9999px no-repeat; padding-left: 14px;}
+#people li a:hover,
+#people li.selected a { background-position: 0 1px; }
+
+
+
+#clients { display:block; margin-bottom: 8px; text-transform:uppercase; }
+#clients a { font-size:14px; line-height:13px; font-weight:bold; color:#fff; width:217px; height:13px; display:block; margin:0;}
+
+/* MID */
+#mid { font-size:12px; line-height:25px;}
+
+#pages-show-senior-team #mid { background:url(../../images/portico/clients-seniorteam2.jpg) 0 0 no-repeat;}
+#pages-show-senior-team #mid p { width:250px; padding:74px 0 0 662px;}
+
+#pages-show-people #mid { background:url(../../images/portico/people-career.jpg) 0 0 no-repeat;}
+/*#pages-show-people #mid p { width:315px; padding:104px 0 0 609px;}*/
+
+#pages-show-development #mid { background:url(../../images/portico/people-development.jpg) 0 0 no-repeat;}
+/*#pages-show-development #mid p { width:250px; padding:329px 0 0 650px;}
+*/
+#pages-show-recognition #mid{ background:url(../../images/portico/people-recognition.jpg) 0 0 no-repeat;}
+/*#pages-show-recognition #mid p { width:350px; padding:318px 0 0 574px;}*/
+
+#pages-show-you #mid{ background:url(../../images/portico/people-you.jpg) 0 0 no-repeat;}
+/*#pages-show-you #mid p { width:342px; padding:343px 0 0 71px;}*/
+
+
+#pages-show-greg-mace #mid { background:url(../../images/portico/clients-gregmace.jpg) 0 0 no-repeat;}
+#pages-show-greg-mace #greg { width:260px; padding:92px 0 0 646px;}
+#pages-show-greg-mace #greg p  {font-size:12x; padding-top:10px; line-height:23px;}
+#pages-show-greg-mace #greg p span { font-size:14px;}
+#pages-show-greg-mace #greg p  a:hover { color:#000;}
+#pages-show-greg-mace #greg p  a.linkedin { padding:5px 0 0 0; display:block;}
+
+#pages-show-deborah-stoller #mid { background:url(../../images/portico/clients-deborahstoller.jpg) 0 0 no-repeat;}
+#pages-show-deborah-stoller #deborah { width:370px; padding:50px 0 0 464px;}
+#pages-show-deborah-stoller #deborah p  {font-size:12x; padding-top:10px; line-height:23px;}
+#pages-show-deborah-stoller #deborah p span { font-size:14px;}
+#pages-show-deborah-stoller #deborah p  a:hover { color:#000;}
+#pages-show-deborah-stoller #deborah p  a.linkedin { padding:5px 0 0 0; display:block;}
+
+#pages-show-paul-nicholls #mid { background:url(../../images/portico/clients-paulnicholls.jpg) 0 0 no-repeat;}
+#pages-show-paul-nicholls #paul { width:300px; padding:68px 0 0 38px;}
+#pages-show-paul-nicholls #paul p  {font-size:12x; padding-top:10px; line-height:23px;}
+#pages-show-paul-nicholls #paul p span { font-size:14px;}
+#pages-show-paul-nicholls #paul p  a:hover { color:#000;}
+#pages-show-paul-nicholls #paul p  a.linkedin { padding:5px 0 0 0; display:block;}
+
+#pages-show-sue-carroll #mid { background:url(../../images/portico/clients-suecarroll.jpg) 0 0 no-repeat;}
+#pages-show-sue-carroll #sue { width:340px; padding:150px 0 0 38px;}
+#pages-show-sue-carroll #sue p  {font-size:12x; padding-top:10px; line-height:23px;}
+#pages-show-sue-carroll #sue p span { font-size:14px;}
+#pages-show-sue-carroll #sue p  a:hover { color:#000;}
+#pages-show-sue-carroll #sue p  a.linkedin { padding:5px 0 0 0; display:block;}
+
+/* MID Services Left */
+#mid.pages-show-our-services { height:556px;}
+#mid.pages-show-our-services #title { width:373px; height:22px; background:url(../../images/portico/clients-services-text.png) 0 27px no-repeat; display:block; padding:27px 0 25px 0;}
+#mid.pages-show-our-services #mid-left { width:500px; display:block; padding:16px 0 0 0; float:left;}
+#mid.pages-show-our-services #mid-left h1 { font-size:14px; font-weight:bold; line-height:25px; padding-top:10px}
+#mid.pages-show-our-services #mid-left p { font-size:12px; line-height:20px; color:#000;}
+
+/* MID Services Right*/
+#mid.pages-show-our-services #mid-right { width:330px; display:block; padding:16px 0 0 0; float:right;}
+#mid.pages-show-our-services #mid-right h1 { font-size:14px; font-weight:bold; line-height:18px; padding-top:10px}
+#mid.pages-show-our-services #mid-right p { font-size:14px; line-height:20px; color:#FFF; padding-bottom:10px;}
+
+
+/* SUB MID */
+#sub-mid p { font-size:10px; line-height:14px;}
+
+#sub-mid #seniorteam-select { height:13px; display:block; padding:0; margin-left:-11px;}
+#sub-mid #seniorteam-select li { float:left; margin:0 12px 0 0; font-size:10px; line-height:13px; display:block; }
+#sub-mid #seniorteam-select li a { font-size:10px; line-height:13px; background:url(../../images/portico/arrow.png) -9999px -9999px no-repeat; padding-left:11px; }
+#sub-mid #seniorteam-select li a:hover { background:url(../../images/portico/arrow.png) 0 -13px no-repeat;  }
+#sub-mid #seniorteam-select li.selected { background:url(../../images/portico/arrow.png) 0 0 no-repeat; padding-left:11px;}
+
+.jScrollPaneTrack{
+  background:#936688 !important;
+}
+
+a.jScrollArrowUp {
+  background: #936688 url(../../images/portico/scroll-up-people.png) no-repeat !important;}
+a.jScrollArrowDown {
+  background: #936688 url(../../images/portico/scroll-down-people.png) no-repeat !important; }
+
+#duncan{
+  position:absolute;
+  top:678px;
+  margin-left:650px;
+}
+
+#opportunities #box p{
+  width:700px;
+}
